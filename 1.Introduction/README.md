@@ -2,8 +2,9 @@
 
 ---
 ### What is testing ..?
-Process of finding the defects in a software
-
+* Process of finding the defects in a software
+* Verifying the functionality of an application according to customer requirement 
+* 
 ### Types of testing
 1. Manual testing
 2. Automation testing
