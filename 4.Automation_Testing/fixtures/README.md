@@ -42,3 +42,7 @@ class TestLogin:
         print("This is login by twitte..")
         assert True == True
 ```
+Run the pytest modules
+```commandline
+pytest -v -s day26-pytest\modules\test_Login.py
+```
