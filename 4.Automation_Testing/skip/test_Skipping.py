@@ -1,8 +1,3 @@
-# Skip test
-
----
-By adding decorator it will skip the particular function
-```python
 import pytest
 
 class TestClass:
@@ -32,4 +27,3 @@ class TestClass:
     def test_signupbytwitter(self):
          print("This is signup by twitter test")
          assert True == True
-```
